@@ -1,7 +1,7 @@
 # Platform Import Keystore
 My own version of [keytool-importkeypair](https://github.com/getfatday/keytool-importkeypair)
 
-**A script which take platform.x509.pem and platform.pk8 files and create a new keystore (with given keystorepass and keypass)**
+**A script which takes platform.x509.pem and platform.pk8 files and creates a new keystore (with given keystorepass and keypass)**
 
 This script doesn't need a keystore pre created counter to keytool-importkeypair
 
